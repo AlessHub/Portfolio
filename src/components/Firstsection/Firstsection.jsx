@@ -8,9 +8,9 @@ function Firstsection(){
            <h2 className="title">Web developer</h2>
            <button className="button"><p className="button-text">Contact Me</p></button>
            <div className="section1-icons">
-                <i class="fa-solid fa-envelope" alt="Email icon"></i>
-                <i class="fa-brands fa-linkedin" alt="Linkedin icon"></i>
-                <i class="fa-brands fa-twitter" alt="Twitter icon"></i>
+                <i className="fa-solid fa-envelope" alt="Email icon"></i>
+                <i className="fa-brands fa-linkedin" alt="Linkedin icon"></i>
+                <i className="fa-brands fa-twitter" alt="Twitter icon"></i>
             </div>
         </section>
         )

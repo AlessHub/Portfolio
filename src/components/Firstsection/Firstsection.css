@@ -33,6 +33,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: #5c3aa5 5px 5px;
 }
 
 .button:hover{

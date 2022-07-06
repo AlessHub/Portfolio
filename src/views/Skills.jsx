@@ -1,6 +1,7 @@
 import React from "react";
 import "../views/Skills.css";
-import Cards from "../components/Cards/Cards.jsx"
+import Cards from "../components/Skillcards/Skillcards.jsx"
+
 function Skills() {
   return (
     <div>

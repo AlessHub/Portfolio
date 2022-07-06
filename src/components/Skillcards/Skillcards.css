@@ -24,7 +24,7 @@
     height: 450px;
     display: flex;
     flex-direction: column;
-    display: flex;
+    box-shadow: #5c3aa5 5px 5px;
 }
 
 .card-container {
@@ -37,4 +37,21 @@
     margin: 25px;
     font-size: 100px;
     text-align: center;
+}
+
+.arrow-container {
+    background-color: #5C3AA5;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    margin: 25px;
+}
+
+#arrow-up {
+    color: white;
+    font-size: 40px;
 }
