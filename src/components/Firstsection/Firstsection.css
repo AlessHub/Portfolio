@@ -1,0 +1,63 @@
+
+
+.section1 {
+    display: flex;
+    gap: 30px;
+    width: 300px;
+    height: auto;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.name {
+    font-family: 'Italiana';
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+}
+
+.title {
+    font-family: 'Josefin Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: #5C3AA5;
+}
+
+.button{
+    background: #FFFFFF;
+    width: 300px;
+    height: 100px;
+    border: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button:hover{
+    background-color: #111111;
+    color: white;
+    transition: 0.5s ease-out 100ms;
+}
+
+.button-text{
+    display: flex;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+}
+
+.button-text:hover{
+    color: #5C3AA5;
+    transition: 0.5s ease-out 100ms;
+}
+
+.section1-icons{
+    font-size: 50px;
+    display: flex;
+    gap: 25px;
+    justify-content: flex-start;
+    color:#5C3AA5;
+}

@@ -1,0 +1,40 @@
+
+.card-title {
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    color: #5C3AA5;
+    text-align: center;
+}
+
+.card-text {
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    color: #000000;
+    text-align: center;
+    padding: 40px;
+}
+
+.card {
+    background-color: white;
+    width: 520px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    display: flex;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+
+#card-icons {
+    margin: 25px;
+    font-size: 100px;
+    text-align: center;
+}

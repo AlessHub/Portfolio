@@ -1,0 +1,29 @@
+
+.about-me{
+    font-family: 'IBM Plex Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    color: #5C3AA5;
+    margin: 0px;
+}
+
+.about-me-text {
+    font-family: 'IBM Plex Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 42px;
+    color: #F5F5F5;
+}
+
+.section2 {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    height: auto;
+    justify-content: flex-start;
+    align-items: flex-end;
+    text-align: right;
+}

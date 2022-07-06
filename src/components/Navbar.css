@@ -1,0 +1,39 @@
+  .navbar{
+    background-color:#111111;
+    box-shadow: 1px 1px 5px rgba(0,0,0,.5);
+  }
+   img {
+    max-width: 100%;
+    height: auto;
+   }
+  .logo {
+    width: 120px;
+   }
+  .navbar-btns{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0px 150px 0px 150px;
+  }
+
+  .navbar-left{
+    display: flex;
+    margin-left:auto;
+    gap: 150px;
+  }
+  .navbar-btn{
+    font-family: 'Economica';
+    font-size: 42px;
+    font-weight: 700;
+    text-decoration: none;
+    color: inherit;
+    }
+  .navbar-btn:hover {
+    color:#5C3AA5;
+    transition: 0.5s ease-out 100ms;
+  }
+  
+  
