@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.307e17ee.css",
+    "main.js": "/Portfolio/static/js/main.fc064b2c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/movieapp.png": "/Portfolio/static/media/movieapp.f567b4e4f92578dde04c.png",
+    "static/media/instrumentos.png": "/Portfolio/static/media/instrumentos.b5abfd995e721f53ffec.png",
+    "static/media/bootstraptest.png": "/Portfolio/static/media/bootstraptest.c9ee354fa48b4eaa74c1.png",
+    "static/media/firstwebsite.png": "/Portfolio/static/media/firstwebsite.6b810e43a690cfebc578.png",
+    "static/media/pandapic.jpg": "/Portfolio/static/media/pandapic.396ce44795e790d0eea5.jpg",
+    "static/media/covidtracker.png": "/Portfolio/static/media/covidtracker.0f38ef1fe492319577ed.png",
+    "static/media/githubprofile.png": "/Portfolio/static/media/githubprofile.b62555db1475a99025ab.png",
+    "static/media/logowhite.png": "/Portfolio/static/media/logowhite.e2cfc8295196ad93d6e0.png",
+    "index.html": "/Portfolio/index.html",
+    "main.307e17ee.css.map": "/Portfolio/static/css/main.307e17ee.css.map",
+    "main.fc064b2c.js.map": "/Portfolio/static/js/main.fc064b2c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.307e17ee.css",
+    "static/js/main.fc064b2c.js"
+  ]
+}
