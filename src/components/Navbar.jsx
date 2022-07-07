@@ -1,7 +1,9 @@
 import React from "react";
 import logowhite from '../assets/logowhite.png';
 import '../components/Navbar.css';
+import {useRef, useEffect} from 'react';
 import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
+
 
 
 
@@ -34,5 +36,7 @@ function Navbar(){
         </nav>
     );
 }
+
+
 
 export default Navbar;

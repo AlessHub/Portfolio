@@ -1,5 +1,15 @@
+:root {
+    --primary-color: red;
+    --blue: rgb(59, 143, 252);
+    --yellow: hsl(59, 99%, 40%);
+    --orange: orange;
+    --green: limegreen;
+    --pink: rgb(240, 104, 206);
+    --red: red;
+}
+
 .arrow-container {
-    background-color: #5C3AA5;
+    background-color: var(--primary-color);
     width: 60px;
     height: 60px;
     border-radius: 50px;

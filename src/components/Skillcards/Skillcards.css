@@ -17,6 +17,7 @@
     #card-container {
         flex-direction: row;
         align-items: unset;
+        margin: 5px;
     }
 
     #card {
@@ -33,7 +34,7 @@
     font-style: normal;
     font-weight: 700;
     font-size: 42px;
-    color: #5C3AA5;
+    color: var(--purple);
     text-align: center;
 }
 
@@ -53,7 +54,7 @@
     height: 450px;
     display: flex;
     flex-direction: column;
-    box-shadow: #5c3aa5 5px 5px;
+    box-shadow: var(--primary-color) 5px 5px;
 }
 
 .card-container {

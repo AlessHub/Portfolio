@@ -42,7 +42,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: #5c3aa5 5px 5px;
+    box-shadow: var(--primary-color) 5px 5px;
     gap: 15px;
 }
 
@@ -51,7 +51,7 @@
     font-style: normal;
     font-weight: 700;
     font-size: 42px;
-    color: #5C3AA5;
+    color: var(--primary-color);
 }
 
 .footer-button-text {

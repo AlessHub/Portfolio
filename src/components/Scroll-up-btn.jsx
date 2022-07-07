@@ -7,8 +7,10 @@ import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy, scro
         useEffect(() => {
             window.addEventListener("scroll", () => {
                 if (window.scrollY > 400) {
+                    document.documentElement.style.setProperty('--primary-color', 'rgb(59, 143, 252)');
                     setShowTopBtn(true);
                 } else {
+                    document.documentElement.style.setProperty('--primary-color', 'red');
                     setShowTopBtn(false);
                 }
             });

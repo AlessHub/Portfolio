@@ -22,7 +22,7 @@
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
-    color: #5C3AA5;
+    color: var(--primary-color);
 }
 
 .button{
@@ -33,7 +33,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: #5c3aa5 5px 5px;
+    box-shadow: var(--primary-color) 5px 5px;
 }
 
 .button:hover{
@@ -51,7 +51,7 @@
 }
 
 .button-text:hover{
-    color: #5C3AA5;
+    color: var(--primary-color);
     transition: 0.5s ease-out 100ms;
 }
 
@@ -60,5 +60,5 @@
     display: flex;
     gap: 25px;
     justify-content: flex-start;
-    color:#5C3AA5;
+    color: var(--primary-color);
 }

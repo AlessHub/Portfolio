@@ -34,5 +34,5 @@
   height: 420px;
   display: flex;
   flex-direction: column;
-  box-shadow: #5c3aa5 5px 5px;
+  box-shadow: var(--primary-color) 5px 5px;
 }
