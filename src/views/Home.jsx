@@ -6,13 +6,13 @@ import Secondsection from "../components/Secondsection/Secondsection.jsx";
 
 function Home(){
     return(
-    <div>
+    <section id="Home">
         <Navbar />
         <div className="home-container" id="home-container">
             <Firstsection />
             <Secondsection />
         </div>
-    </div>
+    </section>
     )
 }
 

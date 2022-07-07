@@ -8,7 +8,7 @@ import Footer from './views/Footer';
 function App() {
   return (
     <>
-      <Home/>
+      <Home />
       <div className="panda-container" id="panda-container"><img className="panda" src={pandapic} alt="Panda" /></div>
       <Skills />
       <Portfolio />

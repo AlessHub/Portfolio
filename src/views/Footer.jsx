@@ -3,7 +3,7 @@ import "../views/Footer.css";
 
 function Footer() {
   return (
-    <div className="footer-container" id="footer-container">
+    <section className="footer-container" id="footer">
       <h1 className="footer-title">Contact Me</h1>
       <p className="footer-text">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Erat consequat
@@ -51,7 +51,7 @@ function Footer() {
         </button>
       </a>
       </div>
-    </div>
+    </section>
   );
 }
 

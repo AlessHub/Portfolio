@@ -1,5 +1,7 @@
 import React from "react";
 import '../Secondsection/Secondsection.css';
+import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
+
 
 function Secondsection(){
     return (
@@ -10,7 +12,7 @@ function Secondsection(){
           diam quis malesuada elementum imperdiet non. Elementum scelerisque
           neque.
         </p>
-        <button className="button"><p className="button-text">Learn more</p></button>
+        <Link smooth spy offset={-300} to="skills"><button className="button"><p className="button-text">Learn more</p></button></Link>
       </section>
     );
     }
