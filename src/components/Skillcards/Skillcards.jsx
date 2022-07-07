@@ -1,6 +1,5 @@
 import React from "react";
 import '../Skillcards/Skillcards.css';
-import Scrollupbtn from "../Scroll-up-btn"
 
 function Cards() {
   return (
@@ -34,7 +33,6 @@ function Cards() {
           </p>
         </div>
       </div>
-      <Scrollupbtn />
     </div>
   );
 }
