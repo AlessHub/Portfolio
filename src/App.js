@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Home/>
-      <div className="panda-container"><img className="panda" src={pandapic} alt="Panda" /></div>
+      <div className="panda-container" id="panda-container"><img className="panda" src={pandapic} alt="Panda" /></div>
       <Skills />
       <Portfolio />
       <Footer />

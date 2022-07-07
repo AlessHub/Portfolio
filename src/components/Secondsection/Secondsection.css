@@ -1,4 +1,21 @@
+@media (min-width: 300px){
+    #section2 {
+        width: 300px;
+        align-items: flex-start;
+        text-align: unset;
+        margin-top: 35px;
+    }
 
+@media (min-width: 960px){
+    #section2 {
+        width: 500px;
+        justify-content: flex-start;
+        align-items: flex-end;
+        text-align: right;
+        margin-top: 0px;
+    }
+}
+}
 .about-me{
     font-family: 'IBM Plex Serif';
     font-style: normal;

@@ -1,3 +1,14 @@
+@media (min-width: 300px){
+    #skills-title {
+        margin-top: 100px;
+    }
+}
+
+@media (min-width: 960px) {
+    #skills-title {
+        margin-top: 0px;
+    }
+}
 .skills-title {
     font-family: 'Economica';
     font-style: normal;

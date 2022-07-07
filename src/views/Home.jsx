@@ -8,7 +8,7 @@ function Home(){
     return(
     <div>
         <Navbar />
-        <div className="home-container">
+        <div className="home-container" id="home-container">
             <Firstsection />
             <Secondsection />
         </div>
