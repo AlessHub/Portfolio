@@ -70,5 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Portfolio
 
+Icon libray : https://fontawesome.com/docs/web/#web-setup
+Used react Scroll: https://github.com/fisshy/react-scroll
 Trello : https://trello.com/b/3S5ofQwa/portfolio
 Figma Mockup : https://www.figma.com/file/z686BiFsi5cpsLEKLfQJi6/Portfolio?node-id=0%3A1
